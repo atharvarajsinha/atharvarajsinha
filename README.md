@@ -2,9 +2,22 @@
 <h3 align="center">🚀 Full-Stack Developer | Problem Solver | Tech Explorer</h3>  
 
 ---
+[![](https://visitcount.itsvg.in/api?id=atharvarajsinha&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+# 💫 About Me:
+💡 I’m a **B.Tech Computer Science student** at **Graphic Era Hill University, Bhimtal (2023-27)**, passionate about crafting scalable web apps, solving complex coding challenges, and exploring AI & ML.  
+💻 Currently diving deep into **Full-Stack Development, AI, and ML** while working on real-world projects.  
+🔥 A coding enthusiast who loves tackling **LeetCode challenges** and participating in **hackathons**.  
+
+📫 **Get in Touch**: [sinhaatharva@gmail.com](mailto:sinhaatharva@gmail.com)  
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvarajsinha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinhaatharva@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvarajsinha)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/atharvarajsinha/)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your_username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhaatharva@gmail.com)  
+
 
 ---
 
@@ -24,5 +37,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=atharvarajsinha&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=atharvarajsinha&icon=0&color=0)](https://visitcount.itsvg.in)
