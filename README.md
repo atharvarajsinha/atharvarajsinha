@@ -1,5 +1,7 @@
 <h1 align="center">Hey there, I'm Atharva Raj Sinha! 👋</h1>  
-<h3 align="center">🚀 Full-Stack Developer | Problem Solver | Tech Explorer</h3>  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer | %20Problem Solver%20 | %20Tech Explorer!%20;&width=620&height=50">
+</p>  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=atharvarajsinha&icon=0&color=0)](https://visitcount.itsvg.in)
