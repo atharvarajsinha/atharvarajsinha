@@ -61,37 +61,14 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
 ### 🛠 Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab)
-![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvarajsinha&show_icons=true&theme=radical&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvarajsinha&theme=radical&cache_seconds=1800" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvarajsinha&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharvarajsinha&theme=radical&no-frame=true&column=6&margin-w=10" />
-</p>
 
 ---
 
